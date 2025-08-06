@@ -37,7 +37,7 @@ The model **improved recall from 0.24 → 0.68** over baseline logistic regressi
 ### 🔍 Feature Importance (Random Forest)
 Shows which factors matter most in job change prediction.
 
-![Feature Importance](Visual%20Metrics/Feature_Importance_RF.png)
+![Feature Importance](Visual%20Metrics/Feature_Importance.png)
 
 ---
 
