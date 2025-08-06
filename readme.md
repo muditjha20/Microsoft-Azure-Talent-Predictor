@@ -70,6 +70,14 @@ This breakdown helps HR understand why a specific person may switch:
 
 ---
 
+### 📊 Waterfall Plot: Feature Contribution Breakdown
+
+The SHAP waterfall plot gives a clear, step-by-step contribution of features to one specific prediction. It shows **how each feature pushes the prediction from the base value to the final output**, making it ideal for **explainable HR decisions**.
+
+![Waterfall Plot](shap/waterfall_individual_prediction.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer             | Tools Used                             |
@@ -135,4 +143,5 @@ The project is organized for professional deployment, testing, explainability, a
 ## 👨‍💻 Author
 
 **Mudit Mayank Jha**  
-Computer Science @ UWI • Exchange Student @ University of Richmond  
+Computer Science @ UWI 
+Exchange Student @ University of Richmond  
