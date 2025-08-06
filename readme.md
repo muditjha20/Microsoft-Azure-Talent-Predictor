@@ -74,7 +74,7 @@ This breakdown helps HR understand why a specific person may switch:
 
 The SHAP waterfall plot gives a clear, step-by-step contribution of features to one specific prediction. It shows **how each feature pushes the prediction from the base value to the final output**, making it ideal for **explainable HR decisions**.
 
-![Waterfall Plot](shap/waterfall_individual_prediction.png)
+![Waterfall Plot](shap/waterfall_summary.png)
 
 ---
 
