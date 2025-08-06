@@ -143,5 +143,3 @@ The project is organized for professional deployment, testing, explainability, a
 ## 👨‍💻 Author
 
 **Mudit Mayank Jha**  
-Computer Science @ UWI 
-Exchange Student @ University of Richmond  
