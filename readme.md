@@ -1,5 +1,5 @@
 # Microsoft Azure Talent Predictor 🔮
-**Predict which job seekers are likely to seek new employment — powered by XGBoost, SHAP, and Azure-ready ML deployment**
+**Predict which job seekers are likely to seek new employment - powered by XGBoost, SHAP, and Azure-ready ML deployment**
 
 ---
 
