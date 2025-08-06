@@ -143,3 +143,5 @@ The project is organized for professional deployment, testing, explainability, a
 ## 👨‍💻 Author
 
 **Mudit Mayank Jha**  
+B.Sc. Computer Science @ The University of the West Indies  
+[GitHub](https://github.com/muditjha20) · [LinkedIn](https://www.linkedin.com/in/mudit-mayank-jha-4b27b7203/)
