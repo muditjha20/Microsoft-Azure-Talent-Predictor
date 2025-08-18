@@ -2,6 +2,7 @@ flask
 flask-cors
 scikit-learn
 xgboost
+gunicorn
 shap
 matplotlib
 pandas
